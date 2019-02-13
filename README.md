@@ -12,6 +12,9 @@ Fire up a terminal and run all the commands in boxes
 Like this one, but dont do this one
 ``` 
 
+# Text editor of your choice
+I recommend Visual Studio code, Notepad++ or Sublime Text also work
+
 # Homebrew
 Install homebrew: https://brew.sh/
 
