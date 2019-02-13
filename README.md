@@ -78,12 +78,19 @@ Turn humanitys stream of conciousness into true beauty
 Twitter : https://twitter.com
 
 # For those that have read this far
-Well done!
+Well done! Have cookie!
 
-Have some cheat previous of things we are going to be doing on Friday:
+![alt text](cookie.jpg "Cookies!")
+
+### Cheat links
+Have some cheat links to preview some of things we might be doing on Friday:
+
 Playground : https://playground.tensorflow.org
+
 Magenta : https://magenta.tensorflow.org/
+
 Tensorflow graphs : https://www.tensorflow.org/guide/graphs
+
 MuseGAN : https://salu133445.github.io/musegan/
 
 GAN : https://en.wikipedia.org/wiki/Generative_adversarial_network
@@ -92,5 +99,3 @@ RNN : https://en.wikipedia.org/wiki/Recurrent_neural_network
 
 VAE : https://en.wikipedia.org/wiki/Autoencoder#Variational_autoencoder_(VAE) 
 
-Have cookie!
-![alt text](cookie.jpg "Cookies!")
