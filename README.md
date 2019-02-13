@@ -6,6 +6,12 @@
 # Installing all the things
 You will need most of the below, feel free to install all of them, or install them as you need them, each task will contain a list of what is needed
 
+Fire up a terminal and run all the commands in boxes
+
+```
+Like this one, but dont do this one
+``` 
+
 # Homebrew
 Install homebrew: https://brew.sh/
 
