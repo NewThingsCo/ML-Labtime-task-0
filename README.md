@@ -37,7 +37,7 @@ Install python 3 and then some useful packages used in the tasks
     pip3 install py-midi
 ``` 
 
-# Tenserflow
+# Tensorflow
 We are using the CPU only version which can be installed as per below
 
 ```
